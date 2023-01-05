@@ -1,4 +1,9 @@
 lorven
+<<<<<<< HEAD
 12345689
+=======
+SSSSS
+welcome
+>>>>>>> 5f0d8b31f284579a1789cac60034db4392dac83b
 welcome
 12345678
